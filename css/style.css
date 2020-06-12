@@ -86,6 +86,13 @@ h1.main,p.demos {
 	-ms-animation-delay: 9s;
 	animation-delay: 9s;
 }
+.sp-container h2.frame-new {
+	font-size: 200px;
+	-webkit-animation-delay: 9s;
+	-moz-animation-delay: 9s;
+	-ms-animation-delay: 9s;
+	animation-delay: 9s;
+}
 .sp-container h2.frame-5 {
 	-webkit-animation: none;
 	-moz-animation: none;
